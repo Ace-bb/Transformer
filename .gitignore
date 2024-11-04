@@ -165,3 +165,4 @@ trans_notebook_2_wx.py
 trans_notebook_2_md.py
 template.py
 *.html
+*.md
